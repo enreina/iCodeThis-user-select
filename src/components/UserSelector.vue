@@ -68,7 +68,7 @@ const onUserSelected = (user: User) => {
             rounded-full
             border border-dark-gray-blue
             text-xl
-            aspect-square
+            px-2
             my-6
           "
           >+</span
